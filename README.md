@@ -1,7 +1,7 @@
-### Hi there 👋 I am Anurag Chatterjee, a Tech Enthusiast and I am currently pursuing MCA.
+### Hi there 👋 I am Anurag Chatterjee, a tech enthusiast and I am currently pursuing MCA.
 
 <!--
-**anuragnewbie/anuragnewbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anuragnewbie/anuragnewbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: anuragchatterjee4@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
