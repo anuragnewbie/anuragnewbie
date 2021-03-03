@@ -8,7 +8,7 @@ I am Anurag Chatterjee, a tech enthusiast. I am currently pursuing MCA. I am ver
 I am aiming to dive into Competitive Programming and challenge my own capabilities.🤓
 
 - 🔭 I’m currently planning to work on my new personal project based on chat application.
-- 🌱 I’m currently learning Full - Stack Web Development and DS.
+- 🌱 I’m currently learning Full - Stack Web Development and DSA.
 - 👯 I’m looking to collaborate for various hackathons.
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: anuragchatterjee4@gmail.com
