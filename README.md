@@ -18,6 +18,6 @@ MY SKILLS --> <br>
 <img src="https://user-images.githubusercontent.com/50053862/111019082-fdde8b80-83e2-11eb-90a1-fc3e0ca6d150.png" width=40 height=40>                                                                                                                
 <img src="https://user-images.githubusercontent.com/50053862/111019178-89581c80-83e3-11eb-9a94-737566e8b53a.png" width=40 height=45>
     
-<img src="https://user-images.githubusercontent.com/50053862/111019405-0afc7a00-83e5-11eb-86da-e104595af64b.png" width=40 height=40>
+<img src="https://user-images.githubusercontent.com/50053862/111019449-56af2380-83e5-11eb-9c52-c859af79c6fa.png" width=40 height=40>
 
 
