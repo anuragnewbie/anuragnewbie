@@ -15,7 +15,13 @@ I am aiming to dive into Competitive Programming and challenge my own capabiliti
 
 ### MY SKILLS --> <br>
 
-<img src="skills/c.png" alt="C logo" width=40 height=40 style="margin-right: 2px"/>         
-<img src="https://user-images.githubusercontent.com/50053862/111019178-89581c80-83e3-11eb-9a94-737566e8b53a.png" alt="python logo" width=40 height=45>
-<img src="https://user-images.githubusercontent.com/50053862/111019579-1f8d4200-83e6-11eb-8374-a54b45b76f93.png" alt="JS logo" width=40 height=40>
-<img src="https://github.com/RishavSinghh/RishavSinghh/raw/main/assets/html.png" alt="html5 logo" width=40 height=40>
+<img align="left" src="skills/c.png" alt="C logo" width=40 height=40 style="margin-right: 2px"/>         
+<img align="left" src="skills/python.png" alt="python logo" width=40 height=45>
+<img align="left" src="JS.png" alt="JS logo" width=40 height=40>
+<img align="left" src="html5.png" alt="html5 logo" width=40 height=40>
+<img align="left" src="css.png" alt="html5 logo" width=40 height=40>
+<br><br>
+<img align="left" src="nodejs.png" alt="html5 logo" width=40 height=40>
+<img align="left" src="sql.png" alt="html5 logo" width=40 height=40>
+<img align="left" src="mysql.png" alt="html5 logo" width=40 height=40>
+<img align="left" src="mongodb.png" alt="html5 logo" width=40 height=40>
