@@ -15,9 +15,7 @@ I am aiming to dive into Competitive Programming and challenge my own capabiliti
 
 MY SKILLS --> <br>
 
-<img src="https://user-images.githubusercontent.com/50053862/111019082-fdde8b80-83e2-11eb-90a1-fc3e0ca6d150.png" width=40 height=40> &nbsp; &nbsp;                                                                           
-<img src="https://user-images.githubusercontent.com/50053862/111019178-89581c80-83e3-11eb-9a94-737566e8b53a.png" width=40 height=45>
-    
-<img src="https://user-images.githubusercontent.com/50053862/111019579-1f8d4200-83e6-11eb-8374-a54b45b76f93.png" width=40 height=40>
-
-<img src="https://github.com/RishavSinghh/RishavSinghh/raw/main/assets/html.png" width=40 height=40>
+<img align="left" src="https://user-images.githubusercontent.com/50053862/111019082-fdde8b80-83e2-11eb-90a1-fc3e0ca6d150.png" alt="C logo" width=40 height=40 style="margin-right: 2px";>         
+<img align="left" src="https://user-images.githubusercontent.com/50053862/111019178-89581c80-83e3-11eb-9a94-737566e8b53a.png" alt="python logo" width=40 height=45>
+<img align="left" src="https://user-images.githubusercontent.com/50053862/111019579-1f8d4200-83e6-11eb-8374-a54b45b76f93.png" alt="JS logo" width=40 height=40>
+<img align="left" src="https://github.com/RishavSinghh/RishavSinghh/raw/main/assets/html.png" alt="html5 logo" width=40 height=40>
