@@ -13,3 +13,6 @@ I am aiming to dive into Competitive Programming and challenge my own capabiliti
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: anuragchatterjee4@gmail.com
 
+SKILLS I AM LEARNING NOW - 
+
+![image](https://user-images.githubusercontent.com/50053862/111019000-71cc6400-83e2-11eb-816f-ba372bd7c745.png)
