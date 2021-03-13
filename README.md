@@ -20,4 +20,5 @@ MY SKILLS --> <br>
     
 <img src="https://user-images.githubusercontent.com/50053862/111019449-56af2380-83e5-11eb-9c52-c859af79c6fa.png" width=40 height=40>
 
+![image](https://user-images.githubusercontent.com/50053862/111019579-1f8d4200-83e6-11eb-8374-a54b45b76f93.png)
 
