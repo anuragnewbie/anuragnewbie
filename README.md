@@ -13,7 +13,7 @@ I am aiming to dive into Competitive Programming and challenge my own capabiliti
 - 💬 Ask me about anything related to tech.
 - 📫 How to reach me: anuragchatterjee4@gmail.com
 
-MY SKILLS --> <br>
+### MY SKILLS --> <br>
 
 <img align="left" src="https://user-images.githubusercontent.com/50053862/111019082-fdde8b80-83e2-11eb-90a1-fc3e0ca6d150.png" alt="C logo" width=40 height=40 style="margin-right: 2px"/>         
 <img align="left" src="https://user-images.githubusercontent.com/50053862/111019178-89581c80-83e3-11eb-9a94-737566e8b53a.png" alt="python logo" width=40 height=45>
