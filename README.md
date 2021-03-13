@@ -15,4 +15,4 @@ I am aiming to dive into Competitive Programming and challenge my own capabiliti
 
 SKILLS I AM LEARNING NOW - 
 
-<img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width=50 heigh=50>
+<img src="https://user-images.githubusercontent.com/50053862/111019082-fdde8b80-83e2-11eb-90a1-fc3e0ca6d150.png" width=50 heigh=50>
