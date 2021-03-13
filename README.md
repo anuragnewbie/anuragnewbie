@@ -15,4 +15,6 @@ I am aiming to dive into Competitive Programming and challenge my own capabiliti
 
 SKILLS I AM LEARNING NOW - 
 
-<img src="https://user-images.githubusercontent.com/50053862/111019082-fdde8b80-83e2-11eb-90a1-fc3e0ca6d150.png" width=50 heigh=50>
+<img src="https://user-images.githubusercontent.com/50053862/111019082-fdde8b80-83e2-11eb-90a1-fc3e0ca6d150.png" width=40 height=40>
+<img src="https://user-images.githubusercontent.com/50053862/111019119-31b9b100-83e3-11eb-90cc-3b3856c6bf8e.png" width=40 height=40>
+
