@@ -1,8 +1,4 @@
 <h2>Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2> 
-<!--
-**anuragnewbie/anuragnewbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 
 I am Anurag Chatterjee, a tech enthusiast. I am currently pursuing MCA. I am very much fascinated with developing web applications and software applications. 
 I am aiming to dive into Competitive Programming and challenge my own capabilities.🤓
