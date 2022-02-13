@@ -25,3 +25,4 @@ I am aiming to dive into Competitive Programming and challenge my own capabiliti
 <img align="left" src="skills/mysql.png" alt="mysql logo" width=40 height=40 style="margin-right: 2px"/>
 <img align="left" src="skills/mongodb.png" alt="mongodb logo" width=40 height=40 style="margin-right: 2px"/>
 <img align="left" src="skills/nodejs.png" alt="nodejs logo" width=45 height=40 style="margin-right: 2px"/>
+<img align="left" src="skills/reactjs.png" alt="nodejs logo" width=45 height=40 style="margin-right: 2px"/>
